@@ -9,6 +9,7 @@ https://it.aliexpress.com/item/WAVGAT-Si4703-RDS-FM-Radio-Tuner-Evaluation-Break
 
 # DESCRIPTION
 This library is a fork of the original radio library by Matthias Hertel. You can find the original library here:
+
 http://www.mathertel.de/Arduino
 
 # PROJECT
@@ -17,13 +18,21 @@ Open the Serial console with 57600 baud to interact and see the current radio in
 
 # Wiring
 The SI4703 board has to be connected by using the following connections:
+
 | STM32Duino pin     | Radio chip signal  |
+
 | -------------------| -------------------|
+
 | 3.3V               | VCC                | 
+
 | GND                | GND                | 
+
 | PB6                | SCLK               | 
+
 | PB7                | SDIO               | 
+
 | PB4                | RST                |
+
 
 
 
