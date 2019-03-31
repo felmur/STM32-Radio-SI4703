@@ -17,23 +17,17 @@ This is an adaptation of the original STM32Duino library, with some corrections 
 Open the Serial console with 57600 baud to interact and see the current radio information.
 
 # Wiring
+<pre>
 The SI4703 board has to be connected by using the following connections:
 
 | STM32Duino pin     | Radio chip signal  |
-
 | -------------------| -------------------|
-
-| 3.3V               | VCC                | 
-
+| 3.3V               | VCC                |
 | GND                | GND                | 
-
-| PB6                | SCLK               | 
-
-| PB7                | SDIO               | 
-
+| PB6                | SCLK               |
+| PB7                | SDIO               |
 | PB4                | RST                |
-
-
+</pre>
 
 
 
