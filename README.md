@@ -31,6 +31,7 @@ RDS-Time: 09:52
 '3' Radio24
 </pre>
 
+STM32Duino board green led will be on if the tuned Station is Stereo.
 
 # Wiring
 <pre>
@@ -43,6 +44,8 @@ The SI4703 board has to be connected by using the following connections:
 | PB6                | SCLK               |
 | PB7                | SDIO               |
 | PB4                | RST                |
+| PB3                | External STEREO LED|
+
 </pre>
 
 
