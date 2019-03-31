@@ -31,7 +31,7 @@ RDS-Time: 09:52
 '3' Radio24
 </pre>
 
-STM32Duino board green led will be on if the tuned Station is Stereo.
+STM32Duino board green led will be on if the tuned Station is Stereo. An external LED (with a 150-200 ohm series resistor) can be connected on PB3 to duplicate stereo indicator.
 
 # Wiring
 <pre>
