@@ -21,7 +21,6 @@ Station: DEEJAY@95.90 Mhz
 HasRDS, STEREO, RSSI: 45, Volume: 5, NOT MUTED
 RDS-Text: radio deejay one nation one station                             
 RDS-Time: 09:52
-
 ================================================================================
 
 '+' Volume Up, '-' Volume Down, 'm' Mute Toggle
